@@ -1,0 +1,1 @@
+#install the fillowing: cmake, dlib,imutils, keras,numpy,pip,pygame, tensorflow, tk
